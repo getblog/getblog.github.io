@@ -22,7 +22,7 @@ title: 投资网站导航
 keywords: 网址导航,网站导航,创意导航
 description: 我的网站导航。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://so0.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: admin@115blog.com
 
