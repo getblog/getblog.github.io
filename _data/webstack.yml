@@ -1,0 +1,405 @@
+- name: 投资理财
+  icon: linecons-star
+  sub: 
+    - name: 经常访问
+      links:
+        - title: 天天基金
+          url: https://fund.eastmoney.com/
+          logo: /assets/images/logo/tiantianjijin.ico
+          description: 天天基金       
+        - title: 晨星咨询
+          url: https://www.morningstar.cn/main/default.aspx
+          logo: /assets/images/logo/morningstar.ico
+          description: 晨星咨询
+        - title: 爱问财
+          url: http://iwencai.com/unifiedwap/result?w=A%E8%82%A1%E5%B8%82%E5%80%BC%E6%8E%92%E8%A1%8C&querytype=stock
+          logo: /assets/images/logo/aiwencai.ico
+          description: 爱问财
+        - title: 雪球
+          url: https://xueqiu.com/
+          logo: /assets/images/logo/xueqiu.png
+          description: 雪球
+        - title: 同花顺个股网
+          url: http://stockpage.10jqka.com.cn/
+          logo: /assets/images/logo/tonghuashun.ico
+          description: 同花顺个股网 
+        - title: 巨潮资讯网
+          url: http://www.cninfo.com.cn/new/index
+          logo: /assets/images/logo/juchaozixun.ico
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网 
+        - title: 英为财情
+          url: https://cn.investing.com/
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 英为财情
+        - title: 各国指数
+          url: https://cn.investing.com/indices/major-indices
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 各国指数
+        # - title: 天天基金
+        #   url: https://fund.eastmoney.com/
+        #   logo: /assets/images/logo/tiantianjijin.ico
+        #   description: 天天基金 
+
+
+
+    - name: 国外投资
+      links:
+        - title: 金融时报
+          url: https://www.ft.com/
+          logo: /assets/images/logo/ftft.jpeg
+          description: 金融时报    
+        - title: 雅虎金融
+          url: https://finance.yahoo.com/
+          logo: /assets/images/logo/yahoo1.ico
+          description: 雅虎金融    
+        - title: TradingView
+          url: https://cn.tradingview.com/
+          logo: /assets/images/logo/tradingview.ico
+          description: TradingView  
+        - title: nasdaq
+          url: https://www.nasdaq.com/
+          logo: /assets/images/logo/nasdaq.ico
+          description: nasdaq  
+        - title: 华尔街见闻
+          url: https://wallstreetcn.com/
+          logo: /assets/images/logo/huaerjie.png
+          description: 华尔街见闻  
+        - title: marketwatch
+          url: https://www.marketwatch.com/
+          logo: /assets/images/logo/marketwatch.png
+          description: marketwatch  
+        - title: 日本经济新闻
+          url: https://www.nikkei.com/markets/kabu/
+          logo: /assets/images/logo/ribenjingjixinwen1.png
+          description: 日本经济新闻
+        - title: 日本雅虎财经
+          url: https://finance.yahoo.co.jp/
+          logo: /assets/images/logo/jpyahufinance.ico
+          description: 日本雅虎财经
+        - title: Google财经
+          url: https://www.google.com/finance/
+          logo: /assets/images/logo/googlefinance.ico
+          description: Google财经
+        - title: 印度时报
+          url: https://economictimes.indiatimes.com/
+          logo: /assets/images/logo/indianews1.ico
+          description: 印度时报
+        - title: 中国金融信息网-印度
+          url: https://www.cnfin.com/world-xh08/yt/IN/index.shtml
+          logo: /assets/images/logo/chinajinrongxinwiw.ico
+          description: 中国金融信息网-印度
+
+
+
+    - name: 基金
+      links:
+        - title: 天天基金
+          url: https://fund.eastmoney.com/
+          logo: /assets/images/logo/tiantianjijin.ico
+          description: 天天基金       
+        - title: 晨星咨询
+          url: https://www.morningstar.cn/main/default.aspx
+          logo: /assets/images/logo/morningstar.ico
+          description: 晨星咨询
+        - title: 中证指数
+          url: https://www.csindex.com.cn/#/
+          logo: /assets/images/logo/zhongzhengzhishu.ico
+          description: 中证指数
+        - title: 且慢
+          url: https://qieman.com/
+          logo: /assets/images/logo/qieman.ico
+          description: 且慢
+        - title: 好买基金网
+          url: https://www.howbuy.com/
+          logo: /assets/images/logo/haomai.png
+          description: 好买基金网
+        - title: 中国基金网
+          url: http://www.chinafund.cn/
+          logo: /assets/images/logo/chinafound.ico
+          description: 中国基金网
+        - title: 蛋卷基金
+          url: https://danjuanfunds.com/
+          logo: /assets/images/logo/danjuanjijin.ico
+          description: 蛋卷基金
+        - title: 集思录
+          url: https://www.jisilu.cn/
+          logo: /assets/images/logo/jisilu.ico
+          description: 集思录
+    - name: 股票
+      links:
+        - title: 爱问财
+          url: http://iwencai.com/unifiedwap/result?w=A%E8%82%A1%E5%B8%82%E5%80%BC%E6%8E%92%E8%A1%8C&querytype=stock
+          logo: /assets/images/logo/aiwencai.ico
+          description: 爱问财
+        - title: 雪球
+          url: https://xueqiu.com/
+          logo: /assets/images/logo/xueqiu.png
+          description: 雪球
+        - title: 同花顺个股网
+          url: http://stockpage.10jqka.com.cn/
+          logo: /assets/images/logo/tonghuashun.ico
+          description: 同花顺个股网 
+        - title: 巨潮资讯网
+          url: http://www.cninfo.com.cn/new/index
+          logo: /assets/images/logo/juchaozixun.ico
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网 
+        - title: 慧博资讯
+          url: http://www.hibor.net/
+          logo: /assets/images/logo/bohuizixun.ico
+          description: 慧博资讯 
+        - title: 看财报
+          url: https://www.kancaibao.com/
+          logo: /assets/images/logo/kancaibao.ico
+          description: 看财报 
+
+        - title: 中国理财网
+          url: https://www.chinawealth.com.cn/zzlc/index.shtml
+          logo: /assets/images/logo/zhongguolicaiwang.ico
+          description: 中国理财网
+
+        - title: 宁稳网
+          url: https://www.ninwin.cn/
+          logo: /assets/images/logo/ningwen.ico
+          description: 宁稳网
+
+        - title: 产业信息网
+          url: https://www.chyxx.com/
+          logo: /assets/images/logo/chanyexinxi.ico
+          description: 产业信息网
+        - title: 企鹅智库
+          url: https://re.qq.com/
+          logo: /assets/images/logo/qiezhiku.ico
+          description: 企鹅智库
+        - title: QuestMobile
+          url: https://www.questmobile.com.cn/
+          logo: /assets/images/logo/questionmobile.ico
+          description: QuestMobile
+
+
+        - title: 买购网
+          url: https://www.maigoo.com/
+          logo: /assets/images/logo/maigouwang.png
+          description: 买购网
+        - title: 中财网
+          url: https://data.cfi.cn/cfidata.aspx
+          logo: /assets/images/logo/zhongcaiwang.ico
+          description: 中财网
+
+
+        - title: 艾瑞网
+          url: https://report.iresearch.cn/
+          logo: /assets/images/logo/airuiwang.ico
+          description: 艾瑞网
+        - title: 搜狐股票
+          url: https://q.stock.sohu.com/
+          logo: /assets/images/logo/sohugup.ico
+          description: 搜狐股票
+        - title: 凤凰财经
+          url: https://finance.ifeng.com/
+          logo: /assets/images/logo/fenghuangcaijing.ico
+          description: 凤凰财经
+        - title: 证券之星
+          url: https://www.stockstar.com/
+          logo: /assets/images/logo/zhengquanzhixing.ico
+          description: 证券之星
+        - title: 新浪财经
+          url: https://vip.stock.finance.sina.com.cn/mkt/
+          logo: /assets/images/logo/xinalngcaijing.ico
+          description: 新浪财经
+        - title: 腾讯财经
+          url: https://stockapp.finance.qq.com/mstats/#
+          logo: /assets/images/logo/qiezhiku.ico
+          description: 腾讯财经
+        - title: 萝卜投研
+          url: https://robo.datayes.com/
+          logo: /assets/images/logo/luobo.ico
+          description: 萝卜投研
+        - title: 财联社
+          url: https://www.cls.cn/
+          logo: /assets/images/logo/cailianshe.ico
+          description: 财联社
+        - title: 乌龟量化
+          url: https://wglh.com/
+          logo: /assets/images/logo/wuguilianghua.ico
+          description: 乌龟量化
+        - title: 乐咕乐股网
+          url: https://legulegu.com/
+          logo: /assets/images/logo/legulegu.ico
+          description: 乐咕乐股网
+        - title: 投资数据网
+          url: https://www.touzid.com/
+          logo: /assets/images/logo/touzishujkw.png
+          description: 投资数据网
+        - title: 理杏仁
+          url: https://www.lixinger.com/
+          logo: /assets/images/logo/lixingren.ico
+          description: 理杏仁
+        - title: 金十数据
+          url: https://www.jin10.com/
+          logo: /assets/images/logo/jinshishuju.ico
+          description: 金十数据
+        - title: 华尔街见闻
+          url: https://wallstreetcn.com/
+          logo: /assets/images/logo/huawejiejianwen.png
+          description: 华尔街见闻
+        - title: 天才股票网
+          url: http://www.11159.com/
+          logo: /assets/images/logo/tiancaigu.ico
+          description: 天才股票网
+        - title: 淘股吧
+          url: https://www.taoguba.com.cn/
+          logo: /assets/images/logo/taoguba.ico
+          description: 淘股吧
+
+    - name: 债券
+      links:
+        - title: 和讯债券
+          url: http://bond.hexun.com/
+          logo: /assets/images/logo/hexunzhaiquan.ico
+          description: 和讯债券
+        - title: 东方财富债券
+          url: https://bond.eastmoney.com/
+          logo: /assets/images/logo/dongfnagcaifuzhaiquan.ico
+          description: 东方财富债券
+        - title: 地方政府债券信息公开
+          url: http://www.celma.org.cn/
+          logo: /assets/images/logo/difangzhaiquan.png
+          description: 地方政府债券信息公开
+        - title: 金融界
+          url: http://bond.jrj.com.cn/
+          logo: /assets/images/logo/jinrongjie.png
+          description: 金融界
+        - title: 中国债券信息网
+          url: https://www.chinabond.com.cn/
+          logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
+          description: 中国债券信息网
+    - name: 工具
+      links:
+        - title: 银行利率查询
+          url: https://bank.cngold.org/yhckll/
+          logo: /assets/images/logo/cunkunlilvchx.ico
+          description: 银行利率查询
+        - title: 十年前国债查询
+          url: https://cn.investing.com/rates-bonds/china-10-year-bond-yield
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 十年前国债查询
+        - title: 雪球指数估值
+          url: https://danjuanfunds.com/djmodule/value-center?channel=1300100141
+          logo: /assets/images/logo/xueqiu.png
+          description: 雪球指数估值
+        - title: 新浪财经收益计算
+          url: http://finance.sina.com.cn/money/283/2005/0708/19.html
+          logo: /assets/images/logo/xinalngcaijing.ico
+          description: 新浪财经投资收益计算
+        - title: 汇添富基金收益计算
+          url: https://www.99fund.com/main/planning/jjgjx/yqsy/index.shtml
+          logo: /assets/images/logo/99fund.ico
+          description: 汇添富基金收益计算
+        - title: 东方财富网投资收益计算
+          url: https://data.eastmoney.com/money/calc/CalcFundSGRG.html
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网投资收益计算
+
+
+    - name: 行业数据
+      links:
+        - title: 国家统计局
+          url: http://www.stats.gov.cn/
+          logo: /assets/images/logo/guojiatongji.ico
+          description: 国家统计局 
+        - title: 上海证券交易所
+          url: http://www.sse.com.cn/
+          logo: /assets/images/logo/shanghaizhengquanjiaoyisuo.ico
+          description: 上海证券交易所 
+        - title: 深圳证券交易所
+          url: http://www.szse.cn/
+          logo: /assets/images/logo/shenzhenzhengquan.ico
+          description: 深圳证券交易所 
+        - title: 香港交易所
+          url: https://www.hkex.com.hk/?sc_lang=zh-HK
+          logo: /assets/images/logo/xianggangjiaoyisuo.png
+          description: 香港交易所 
+        - title: 中国⼈⺠银⾏
+          url: http://www.pbc.gov.cn/
+          logo: /assets/images/logo/zhongguorenminyinhang.ico
+          description: 中国⼈⺠银⾏ 
+        - title: 国家外汇管理局
+          url: http://www.safe.gov.cn/
+          logo: /assets/images/logo/waihuiguanli.ico
+          description: 国家外汇管理局 
+        - title: 银保监会
+          url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
+          logo: /assets/images/logo/yinbaojianhui.ico
+          description: 银保监会
+        - title: 财政部
+          url: http://www.mof.gov.cn/index.htm
+          logo: /assets/images/logo/caizhengbu.ico
+          description: 财政部
+        - title: 中国证券登记结算
+          url: http://www.chinaclear.cn/
+          logo: /assets/images/logo/zhongguozhengquanjiesuo.png
+          description: 中国证券登记结算
+        - title: 证监会
+          url: http://www.csrc.gov.cn/
+          logo: /assets/images/logo/zhengjianhui1.ico
+          description: 证监会
+        - title: 中国金融期货交易所
+          url: http://www.cffex.com.cn/
+          logo: /assets/images/logo/cffexlogo-new.png
+          description: 中国金融期货交易所
+        - title: 发改委
+          url: https://www.ndrc.gov.cn/
+          logo: /assets/images/logo/fagaiwei.ico
+          description: 发改委
+        - title: 国证指数
+          url: http://www.cnindex.com.cn/
+          logo: /assets/images/logo/guozhengzhishu.ico
+          description: 国证指数
+        - title: 黄金网
+          url: http://gold.cnfol.com/
+          logo: /assets/images/logo/huangjinwang.png
+          description: 黄金网
+
+# - name: 股票
+#   icon: linecons-doc
+#   sub: 
+#     - name: VPS
+#       links:
+#         - title: 搬瓦工
+#           url: https://bandwagonhost.com/
+#           logo: /assets/images/logo/banwagong.png
+#           description: 搬瓦工
+
+# - name: XX
+#   icon: linecons-thumbs-up
+#   sub: 
+#     - name: 开发资源
+#       links:
+#         - title: Vscode在线版本
+#           url: https://vscode.dev/
+#           logo: /assets/images/logo/vscode.ico
+#           description: Vscode在线版本
+# - name: 数据研究
+#   icon: linecons-user
+#   sub: 
+#     - name: 音乐网站
+#       links:
+#         - title: 网易音乐
+#           logo: /assets/images/logo/wangyi.ico
+#           url: https://music.163.com/
+#           description: 腾讯视频
+# - name: 其它
+#   icon: linecons-pencil
+#   sub: 
+#     - name: 邮箱
+#       links:
+#        - title: 126邮箱
+#          url: https://mail.126.com/
+#          logo: /assets/images/logo/126mail.png
+#          description: 126邮箱
